@@ -10,7 +10,7 @@ console.log(
     ? "Regular"
     : userPreference === "Sugar-free"
     ? "Sugar-free"
-    : "Default"
+    : "Regular"
 );
 
 // #### Challenge 2: Stock Check
@@ -18,7 +18,7 @@ console.log(
 // Use a ternary operator to print "Time to restock!" if the number is less than 5, or "We're stocked!" if the number is 5 or more.
 
 let cansLeft = 3; // Any number of cans
-console.log(`cansLeft < 5 ? "Time to restock!" : "We're stocked!"`);
+console.log(cansLeft < 5 ? "Time to restock!" : "We're stocked!");
 
 // #### Challenge 3: Workout Intensity
 // Based on the current heart rate, determine if the user should drink a Monster Energy drink to boost their workout.
