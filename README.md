@@ -19,6 +19,6 @@
 
 - To use the ternary operators more often to code more complex conditions.
 
-### Overall Learning Experience
+# Overall Learning Experience
 
 - Overall, using ternary operators in the project was a great learning experience, as it exposed the advantages and disadvantages of ternary operators. The advantages include the conciseness and efficiency of ternary operators, while the disadvantages include the complexity and difficulty of debugging them. Overall, it was a great way to learn one of the different programming techniques.
